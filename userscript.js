@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         MOOC-Shortcuts-Extension
 // @namespace    https://github.com/JacobHu0723/MOOC-Shortcuts-Extension/
-// @version      1.0.0
+// @version      1.0.2
 // @description  中国大学MOOC补全快进和全屏快捷键
 // @author       Jacob Hu
 // @match        https://www.icourse163.org/*
-// @icon         https://github.com/JacobHu0723/MOOC-Shortcuts-Extension/blob/master/mooc.png?raw=true
+// @icon         https://raw.githubusercontent.com/JacobHu0723/MOOC-Shortcuts-Extension/refs/heads/master/mooc.png
 // @grant        none
 // ==/UserScript==
 
